@@ -1,0 +1,8 @@
+C:\Users\vutra\source\repos\NPL.Practice.T02\NPL.Practice.T02.Problem02\bin\Debug\NPL.Practice.T02.Problem02.exe.config
+C:\Users\vutra\source\repos\NPL.Practice.T02\NPL.Practice.T02.Problem02\bin\Debug\NPL.Practice.T02.Problem02.exe
+C:\Users\vutra\source\repos\NPL.Practice.T02\NPL.Practice.T02.Problem02\bin\Debug\NPL.Practice.T02.Problem02.pdb
+C:\Users\vutra\source\repos\NPL.Practice.T02\NPL.Practice.T02.Problem02\obj\Debug\NPL.Practice.T02.Problem02.csproj.AssemblyReference.cache
+C:\Users\vutra\source\repos\NPL.Practice.T02\NPL.Practice.T02.Problem02\obj\Debug\NPL.Practice.T02.Problem02.csproj.SuggestedBindingRedirects.cache
+C:\Users\vutra\source\repos\NPL.Practice.T02\NPL.Practice.T02.Problem02\obj\Debug\NPL.Practice.T02.Problem02.csproj.CoreCompileInputs.cache
+C:\Users\vutra\source\repos\NPL.Practice.T02\NPL.Practice.T02.Problem02\obj\Debug\NPL.Practice.T02.Problem02.exe
+C:\Users\vutra\source\repos\NPL.Practice.T02\NPL.Practice.T02.Problem02\obj\Debug\NPL.Practice.T02.Problem02.pdb
